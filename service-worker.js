@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/scavenger-hunt-mj/precache-manifest.6f4523cc86b57338c72c3478ce48e2ea.js"
+  "/scavenger-hunt/precache-manifest.68f6b06e1a2237209dd5bbc8ea39029c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/scavenger-hunt-mj/index.html", {
+workbox.routing.registerNavigationRoute("/scavenger-hunt/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
