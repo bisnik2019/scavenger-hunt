@@ -1,13 +1,13 @@
 {
   "main.css": "/scavenger-hunt/static/css/main.0d7e15e6.chunk.css",
-  "main.js": "/scavenger-hunt/static/js/main.8c6ac826.chunk.js",
-  "main.js.map": "/scavenger-hunt/static/js/main.8c6ac826.chunk.js.map",
+  "main.js": "/scavenger-hunt/static/js/main.cb27f1e6.chunk.js",
+  "main.js.map": "/scavenger-hunt/static/js/main.cb27f1e6.chunk.js.map",
   "runtime~main.js": "/scavenger-hunt/static/js/runtime~main.b547eb68.js",
   "runtime~main.js.map": "/scavenger-hunt/static/js/runtime~main.b547eb68.js.map",
   "static/js/2.eb579352.chunk.js": "/scavenger-hunt/static/js/2.eb579352.chunk.js",
   "static/js/2.eb579352.chunk.js.map": "/scavenger-hunt/static/js/2.eb579352.chunk.js.map",
   "index.html": "/scavenger-hunt/index.html",
-  "precache-manifest.68f6b06e1a2237209dd5bbc8ea39029c.js": "/scavenger-hunt/precache-manifest.68f6b06e1a2237209dd5bbc8ea39029c.js",
+  "precache-manifest.28d7ace8ec86d34b8b476287f0976a19.js": "/scavenger-hunt/precache-manifest.28d7ace8ec86d34b8b476287f0976a19.js",
   "service-worker.js": "/scavenger-hunt/service-worker.js",
   "static/css/main.0d7e15e6.chunk.css.map": "/scavenger-hunt/static/css/main.0d7e15e6.chunk.css.map"
 }
