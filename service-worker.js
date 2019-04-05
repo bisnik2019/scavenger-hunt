@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/scavenger-hunt/precache-manifest.2d5c949f22f96dac2e732ba843bee346.js"
+  "/scavenger-hunt/precache-manifest.37405b683d3d9523baad436aca2ceb54.js"
 );
 
 workbox.clientsClaim();
